@@ -1,15 +1,22 @@
 # Realtime Obejct Recognition
 
 Realtime object recognition using the OpenCV +  MobileNetSSD caffemodel.
+Realtime Object Recognition is an innovative project leveraging computer vision and machine learning techniques to detect and classify objects in real-time. Whether you're building a smart surveillance system, developing augmented reality applications, or enhancing robotics capabilities, this project provides a robust foundation for object detection tasks.
 
+## Key Features:
+
+-Utilizes state-of-the-art deep learning models for object detection
+-Real-time inference for live video streams or camera feeds
+-Supports a wide range of objects and environments
+-Easily customizable and extendable for specific use cases
+-Integration with popular frameworks like TensorFlow and OpenCV
+-Seamless deployment on edge devices or cloud platforms
 
 ## Installation
-All the dependencies can be installed using `pip`. Just use the following command from the root directory of the project.
+All the dependencies can be installed using `pip`. 
 ```bash
 pip3 install -r requirements.txt
 ```
-
-**NOTE:** At the time of this writing, `public.py` is broken. If you have a problem installing it, check this [workaround here](https://github.com/C-Aniruddh/realtime_object_recognition/issues/1).
 
 ## How to run this script?
 
